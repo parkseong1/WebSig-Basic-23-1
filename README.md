@@ -1,7 +1,7 @@
 # Web_Basic_23-1
 23-1년 웹 초급 시그
 
-README 파일 수정법 => 오른쪽 위의 점 3개를 누른 뒤 Edit file을 눌러 편집한다.
+README 파일 수정법 => 오른쪽 위의 연필 아이콘을 눌러 편집한다.
 
 그 후 Commit Changes를 눌러 확정한다.
 
